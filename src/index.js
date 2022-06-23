@@ -1,3 +1,3 @@
 import { greeting } from './greeting.js';
 
-document.write(greeting('soar'));
+document.write(greeting('Soar'));
